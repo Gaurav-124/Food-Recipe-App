@@ -1,0 +1,64 @@
+.App{
+  min-height:100vh ;
+  /* background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%); */
+  /* background-image: linear-gradient(-225deg, #FFE29F 0%, #FFA99F 48%, #FF719A 100%); */
+   /* background-image: linear-gradient(to right, #c1c161 0%, #c1c161 0%, #d4d4b1 100%); */
+   /* background-image: linear-gradient(to right, #d7d2cc 0%, #304352 100%); */
+ /* background-image: linear-gradient(to right, #243949 0%, #517fa4 100%);*/
+  /* background-image: linear-gradient(to top, #e6b980 0%, #eacda3 100%); */
+  /* background-image: linear-gradient(60deg, #29323c 0%, #485563 100%); */
+  /* background-image: linear-gradient(to right, #a8caba 0%, #5d4157 100%); */
+  background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
+ /* background-image: linear-gradient(to top, #c79081 0%, #dfa579 100%);
+  background-image: linear-gradient(to right, #868f96 0%, #596164 100%); */
+
+}
+
+
+.navbar{
+  display: flex;
+  justify-content: space-between;
+  height: 60px;
+  background-color: rgb(49, 57, 68);
+  margin: auto;
+  position:static;
+}
+
+.menu{
+
+display: flex;
+justify-content: space-around;
+flex-wrap: wrap;
+}
+
+.btn{
+  border-radius: 5px;
+  height: 25px;
+  margin-top: 9px;
+  margin-right: 25px;
+}
+.btn:hover{
+  color: rgb(240, 232, 232);
+  background-color: rgb(114, 46, 46);
+}
+.input{
+ height: 25px;
+ border-radius: 5px;
+ width: 300px;
+}
+
+.leftpart{
+ margin-top: -10px;
+ margin-left: 70px;
+}
+.img{
+  width: 65px;
+  margin-top: -89px;
+  border-radius: 40px;
+  margin-left: 0px;
+}
+.h1{
+  margin-left: 85px;
+  color: azure;
+  margin-top: 20px;
+}
